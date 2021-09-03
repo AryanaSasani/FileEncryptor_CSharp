@@ -12,6 +12,8 @@ Also this app shows  files in HEX !
  <p>Its very easy to use ! </p> 
 <h4>1-  By Open Btn , select the file that you want to Encrypt or Decrypt  </h4>
 <h4>2- Press  Encrypt/decrypt Button to Encrypt or Decrypt yor file !  </h4>
+<h5>Picture:  </h5>
+<img  src="HowToWork.jpg">
 <h3>Attention !!</h3>
 <h4>In this version of the app , you can just encrypt your file in one way !  (BinaryData^80)</h4>
  
